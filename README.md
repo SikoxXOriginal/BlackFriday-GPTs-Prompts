@@ -1,5 +1,7 @@
 # GPTs Prompts And Jailbreaks
 
+> Neu: [Die Kartenlegerin – virtuelle Tarot-Web-App](./tarot-app/) (React + Vite, optional Claude-Lesungen). Analyse und Spezifikation in [tarot-app/docs](./tarot-app/docs/ANALYSE-UND-ANFORDERUNGEN.md).
+
 - [2024 May Update](./2024-May-Update.md)
 - [Programming](./Programming.md)
 - [Marketing](./Marketing.md)
